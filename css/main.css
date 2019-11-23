@@ -79,12 +79,12 @@ section {
 
 .btn-default {
   color: #ffffff;
-  background: #faa541;
+  background-color: #faa541;
 }
 
 .btn-primary {
   color: #ffffff;
-  background: #364147;
+  background-color: #364147;
 }
 
 .form-control {
@@ -107,4 +107,21 @@ section {
 .text-secondary {
   font-size: 30px;
   color: #faa541;
+}
+
+.header-nav {
+  border-bottom: 1px;
+  color: #a0a0a0;
+}
+
+.brand {
+  width: 170px;
+  height: 85px;
+  margin-left: -15px;
+  margin-right: 60px;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
 }
