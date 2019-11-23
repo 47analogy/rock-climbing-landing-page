@@ -4,7 +4,7 @@
   "description": "Build a Rock Climbing Company Landing Page with HTML & CSS - https://pluralsight.com",
   "scripts": {
     "start": "lite-server",
-    "test": "cross-env NODE_ENV=test mocha './test/unit/*.test.js' || true",
+    "test": "cross-env NODE_ENV=test mocha'./test/unit/*.test.js' || true",
     "test:module1": "cross-env NODE_ENV=test mocha './test/unit/module1.test.js' || true",
     "test:module2": "cross-env NODE_ENV=test mocha './test/unit/module2.test.js' || true",
     "test:module3": "cross-env NODE_ENV=test mocha './test/unit/module3.test.js' || true",
